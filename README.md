@@ -22,10 +22,10 @@ Overwatch hero abilities recreated in Unity using the scriptable object system.
 
 ## How to use / Setup Abilities
 Each ability can be found in the `Abilities` folder.
-1. Select the `Player`prefab from the scene
+1. Select the `Player` prefab from the scene
 2. Find the PlayerAbilityController script from the inspector
 3. Insert the abilities in `Ability 1` and `Ability 2` fields
-4. Press the `Shift` key to activate `Ability 1` and the `E` key to activate ability 2
+4. Press the `Shift` key to activate `Ability 1` and the `E` key to activate `ability 2`
 
 **Assets**: Excluded (GitHub limits) - decorative only. **Runs perfectly** with primitives.
 
