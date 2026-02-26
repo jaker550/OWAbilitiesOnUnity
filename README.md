@@ -1,3 +1,4 @@
+
 # Overwatch Abilities Prototype - Stargate Studio
 
 Overwatch hero abilities recreated in Unity using the scriptable object system.
@@ -27,6 +28,7 @@ Each ability can be found in the `Abilities` folder.
 3. Insert the abilities in `Ability 1` and `Ability 2` fields
 4. Press the `Shift` key to activate `Ability 1` and the `E` key to activate `ability 2`
 
-**Assets**: Excluded (GitHub limits) - decorative only. **Runs perfectly** with primitives.
+**Assets**: Excluded (GitHub limits) - decorative only. **Runs perfectly** with primitives. 
+**Trouble?** Use `SampleScene` (excuse lighting 😅).
 
 [jakegalea.com](https://jakegalea.com) | [LinkedIn](https://www.linkedin.com/in/jake-galea-967114144/)
