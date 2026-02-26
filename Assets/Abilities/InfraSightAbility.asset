@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b06f8e4bb3e6694c9749a473ea47aaf, type: 3}
+  m_Name: InfraSightAbility
+  m_EditorClassIdentifier: 
+  abilityName: Infra-Sight
+  abilityIcon: {fileID: 21300000, guid: 3e7c2e385aeecce46b2ee1e4a841ec44, type: 3}
+  ultimateAbility: 1
+  abilityDuration: 10
+  duration: 10
+  silhouetteMaterial: {fileID: 2100000, guid: 4301f5dbc4c3ff14c98a2312d08e65e6, type: 2}
+  sliderPrefab: {fileID: 31631433740824346, guid: b174e646b2d4d174c9b3a0a480956384, type: 3}
+  canvasTag: Canvas

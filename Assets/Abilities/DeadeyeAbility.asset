@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 862e7a15b64dcc542ab48294666fd928, type: 3}
+  m_Name: DeadeyeAbility
+  m_EditorClassIdentifier: 
+  abilityName: Deadeye
+  abilityIcon: {fileID: 21300000, guid: 8aa13344d553df145bd8b2770dcc96bc, type: 3}
+  abilityDuration: 8
+  speedMultiplier: 0.25
+  fovTransitionDuration: 0.2
+  lockOnTime: 8
+  firstPhaseDamagePerSecond: 150
+  secondPhaseDamagePerSecond: 300
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 512
+  obstacleLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  fovAngle: 120
+  detectionRadius: 300
+  fireKey: 323
+  tumbleweedPrefab: {fileID: 1958578002323584512, guid: 85532659d9f0c8c43b510f5a30578240, type: 3}
+  windForce: 6
+  lockOnCirclePrefab: {fileID: 5936544010479565285, guid: 7e7fd7cf5f1e04d468adb45e915fbab9, type: 3}
+  deadeyeTimerPrefab: {fileID: 6170258396919618669, guid: 9dbca5f4229bef24bb309ebd4c0cb7ac, type: 3}
+  rayHits: 
